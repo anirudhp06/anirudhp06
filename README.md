@@ -1,9 +1,9 @@
-![Visits Badge](https://badges.pufler.dev/visits/anirudhp06/anirudhp06)
+![Visits Badge](https://gpvc.arturio.dev/anirudhp06)
 
 
 - 👋 Hi, I’m @anirudhp06
 - 👀 I’m interested in computers, eager to know how computer runs on 2 numbers.
-- 🌱 I’m currently learning Bachelor Of Computer Applications
+- 🌱 I’m currently learning Masters Of Computer Applications
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me email: anirudhparvatikar12@gmail.com<br>
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhp06&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321">
